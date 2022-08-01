@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Confidenceb
-- 👀 I’m interested in learning HTML,CSS,JS,Python
+- 👀 I’m interested in Website Development,App Development
 - 🌱 I’m currently learning ...CSS,HTML
-- 💞️ I’m looking to collaborate on ... web development
-- 📫 How to reach me ...https://web.facebook.com/jamiu.noibi.3
+- 💞️ I’m looking to collaborate on ... Web interface,Web apps
+- 📫 How to reach me ...gboljamiu207@gmail.com,https://web.facebook.com/jamiu.noibi.3
 
 <!---
 Confidenceb/Confidenceb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
